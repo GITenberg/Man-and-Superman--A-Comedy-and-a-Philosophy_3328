@@ -11,6 +11,7 @@ Title: Man And Superman
 Author: George Bernard Shaw
 
 Release Date: March 21, 2006 [EBook #3328]
+Last Updated: July 30, 2015
 
 Language: English
 
@@ -1787,11 +1788,11 @@ her habit of giving people nicknames. They can't be expected to like it.
 ANN. How can you say such a thing, Mamma! [Glowing with affectionate
 remorse] Oh, I wonder can you be right! Have I been inconsiderate? [She
 turns to Octavius, who is sitting astride his chair with his elbows on
-the back of it. Putting her hand on his forehead the turns his face up
+the back of it. Putting her hand on his forehead she turns his face up
 suddenly]. Do you want to be treated like a grown up man? Must I call
 you Mr Robinson in future?
 
-OCTAVIUS. [earnestly] Oh please call me Ricky-ticky--tavy, "Mr Robinson"
+OCTAVIUS. [earnestly] Oh please call me Ricky-ticky-tavy, "Mr Robinson"
 would hurt me cruelly. [She laughs and pats his cheek with her finger;
 then comes back to Ramsden]. You know I'm beginning to think that Granny
 is rather a piece of impertinence. But I never dreamt of its hurting
@@ -3082,7 +3083,7 @@ don't we?
 OCTAVIUS. [earnestly] But there's a great truth at the bottom of what he
 says. I believe most intensely in the dignity of labor.
 
-STRAKER. [unimpressed] That's because you never done any Mr Robinson.
+STRAKER. [unimpressed] That's because you never done any, Mr Robinson.
 My business is to do away with labor. You'll get more out of me and a
 machine than you will out of twenty laborers, and not so much to drink
 either.
@@ -3171,6 +3172,8 @@ not serious to you, it is to me, and to her.
 
 TANNER. You know very well that she is as free to choose as you. She
 does not think so.
+
+OCTAVIUS. She does not think so.
 
 TANNER. Oh, doesn't she! just! However, say what you want me to do.
 
@@ -3982,7 +3985,7 @@ weaklings. Some of them are men who do not fit the class they were born
 into. Precisely the same qualities that make the educated gentleman an
 artist may make an uneducated manual laborer an ablebodied pauper. There
 are men who fall helplessly into the workhouse because they are good
-far nothing; but there are also men who are there because they are
+for nothing; but there are also men who are there because they are
 strongminded enough to disregard the social convention (obviously not a
 disinterested one on the part of the ratepayer) which bids a man live
 by heavy and badly paid drudgery when he has the alternative of walking
@@ -4032,7 +4035,7 @@ other men's lives wasted in the work of watching them. But as society
 has not the courage to kill them, and, when it catches them, simply
 wreaks on them some superstitious expiatory rites of torture and
 degradation, and than lets them loose with heightened qualifications for
-mischief; it is just as well that they are at large in the Sierra,
+mischief, it is just as well that they are at large in the Sierra,
 and in the hands of a chief who looks as if he might possibly, on
 provocation, order them to be shot.
 
@@ -4668,7 +4671,7 @@ DON JUAN. I do not doubt it.
 THE OLD WOMAN. But how then can I be in hell? Purgatory, perhaps: I have
 not been perfect: who has? But hell! oh, you are lying.
 
-DON JUAN. Hell, Senora, I assure you; hell at its best that is, its most
+DON JUAN. Hell, Senora, I assure you; hell at its best--that is, its most
 solitary--though perhaps you would prefer company.
 
 THE OLD WOMAN. But I have sincerely repented; I have confessed.
@@ -4705,7 +4708,7 @@ THE OLD WOMAN. But whom can I ask?
 DON JUAN. I should ask the Devil, Senora: he understands the ways of
 this place, which is more than I ever could.
 
-THE OLD WOMAN. The Devil! I speak to the Devil!
+THE OLD WOMAN. The Devil! _I_ speak to the Devil!
 
 DON JUAN. In hell, Senora, the Devil is the leader of the best society.
 
@@ -4768,7 +4771,7 @@ THE OLD WOMAN. Oh, what do I care why you are here? Why am I here? I,
 who sacrificed all my inclinations to womanly virtue and propriety!
 
 DON JUAN. Patience, lady: you will be perfectly happy and at home here.
-As with the poet, "Hell is a city much like Seville."
+As saith the poet, "Hell is a city much like Seville."
 
 THE OLD WOMAN. Happy! here! where I am nothing! where I am nobody!
 
@@ -4778,7 +4781,7 @@ lady can desire, including devils who will serve you from sheer love of
 servitude, and magnify your importance for the sake of dignifying their
 service--the best of servants.
 
-THE OLD WOMAN. My servants will be devils.
+THE OLD WOMAN. My servants will be devils!
 
 DON JUAN. Have you ever had servants who were not devils?
 
@@ -4812,7 +4815,7 @@ THE OLD WOMAN. Nonsense!
 
 DON JUAN. Consider, Senora: was not this true even when you lived on
 earth? When you were 70, were you really older underneath your wrinkles
-and your grey hams than when you were 30?
+and your grey hairs than when you were 30?
 
 THE OLD WOMAN. No, younger: at 30 I was a fool. But of what use is it to
 feel younger and look older?
@@ -4854,7 +4857,7 @@ Monster! You who slew my father! even here you pursue me.
 
 DON JUAN. I protest I do not pursue you. Allow me to withdraw [going].
 
-ANA. [reining his arm] You shall not leave me alone in this dreadful
+ANA. [seizing his arm] You shall not leave me alone in this dreadful
 place.
 
 DON JUAN. Provided my staying be not interpreted as pursuit.
@@ -6133,7 +6136,7 @@ because they were exorbitant and inhuman: it was their extraordinary
 irrelevance that prostrated me. I invariably replied with perfect
 frankness that I had never dreamt of any of these things; that unless
 the lady's character and intellect were equal or superior to my own, her
-conversation must degrade and her counsel mislead me; tha t her constant
+conversation must degrade and her counsel mislead me; that her constant
 companionship might, for all I knew, become intolerably tedious to me;
 that I could not answer for my feelings for a week in advance, much
 less to the end of my life; that to cut me off from all natural and
@@ -6816,7 +6819,7 @@ a circumstance which, with the absence of games, might lead an
 intelligent spectator to the most far reaching conclusions as to the
 sort of people who live in the villa. Such speculations are checked,
 however, on this delightfully fine afternoon, by the appearance at
-a little gate in a paling an our left, of Henry Straker in his
+a little gate in a paling on our left, of Henry Straker in his
 professional costume. He opens the gate for an elderly gentleman, and
 follows him on to the lawn.
 
@@ -7509,7 +7512,7 @@ make him wretched.
 
 ANN. Yes: that's the difficulty, so far.
 
-OCTAVIUS. [heroically] Shall I tell him that you love?
+OCTAVIUS. [heroically] Shall _I_ tell him that you love him?
 
 ANN. [quickly] Oh no: he'd run away again.
 
@@ -7584,7 +7587,7 @@ that? Don't torment me. I don't understand.
 
 ANN. Suppose she were to tell fibs, and lay snares for men?
 
-OCTAVIUS. Do you think I could marry such a woman--I, who have known and
+OCTAVIUS. Do you think _I_ could marry such a woman--I, who have known and
 loved you?
 
 ANN. Hm! Well, at all events, she wouldn't let you if she were wise. So
@@ -7643,7 +7646,7 @@ marry Jack?
 OCTAVIUS. Yes: she has told me.
 
 MRS WHITEFIELD. [thoughtfully] Then I'm very sorry for you, Tavy. It's
-only her way of saying SHE wants to marry Jack. Little she cares what I
+only her way of saying SHE wants to marry Jack. Little she cares what _I_
 say or what I want!
 
 OCTAVIUS. But she would not say it unless she believed it. Surely you
@@ -7694,7 +7697,7 @@ is when she has set her mind on anything. But don't put it on me: that's
 all I ask. Tavy has just let out that she's been saying that I am making
 her marry you; and the poor boy is breaking his heart about it; for he
 is in love with her himself, though what he sees in her so wonderful,
-goodness knows: I don't. It's no use telling Tavy that Ann puts things
+goodness knows: _I_ don't. It's no use telling Tavy that Ann puts things
 into people's heads by telling them that I want them when the thought of
 them never crossed my mind. It only sets Tavy against me. But you know
 better than that. So if you marry her, don't put the blame on me.
@@ -7836,7 +7839,7 @@ VIOLET. [soothing her] There, there: so I am. Ann will be jealous.
 MRS WHITEFIELD. Ann doesn't care a bit for me.
 
 ANN. Fie, mother! Come, now: you mustn't cry any more: you know Violet
-doesn't like it [Mrs Whitefzeld dries her eyes, and subsides].
+doesn't like it [Mrs Whitefield dries her eyes, and subsides].
 
 VIOLET. Goodbye, Jack.
 
@@ -7934,7 +7937,7 @@ satisfied unless your prey struggles?
 ANN. [turning to him as if to let him into a secret] Tavy will never
 marry. Haven't you noticed that that sort of man never marries?
 
-TANNER. What! a man who idolizes women who sees nothing in nature but
+TANNER. What! a man who idolizes women! who sees nothing in nature but
 romantic scenery for love duets! Tavy, the chivalrous, the faithful, the
 tenderhearted and true! Tavy never marry! Why, he was born to be swept
 up by the first pair of blue eyes he meets in the street.
@@ -7996,12 +7999,12 @@ before he made that will. I chose you!
 
 TANNER. The will is yours then! The trap was laid from the beginning.
 
-ANN. [concentrating all her magic] From the beginning from our
+ANN. [concentrating all her magic] From the beginning--from our
 childhood--for both of us--by the Life Force.
 
 TANNER. I will not marry you. I will not marry you.
 
-ANN. Oh; you will, you will.
+ANN. Oh, you will, you will.
 
 TANNER. I tell you, no, no, no.
 
@@ -8064,7 +8067,7 @@ RAMSDEN. What does this mean?
 VIOLET. [running between Ann and Tanner] Are you ill?
 
 ANN. [reeling, with a supreme effort] I have promised to marry Jack.
-[She swoons. Violet kneels by her and chafes her band. Tanner runs round
+[She swoons. Violet kneels by her and chafes her hand. Tanner runs round
 to her other hand, and tries to lift her bead. Octavius goes to Violet's
 assistance, but does not know what to do. Mrs Whitefield hurries back
 into the villa. Octavius, Malone and Ramsden run to Ann and crowd round
@@ -8117,7 +8120,7 @@ ANN. [supine] No I haven't. I'm quite happy.
 
 TANNER. [suddenly walking determinedly to her, and snatching her hand
 from Violet to feel her pulse] Why, her pulse is positively bounding.
-Come, getup. What nonsense! Up with you. [He gets her up summarily].
+Come, get up. What nonsense! Up with you. [He gets her up summarily].
 
 ANN. Yes: I feel strong enough now. But you very nearly killed me, Jack,
 for all that.
